@@ -38,9 +38,8 @@ A modern and user-friendly scientific calculator built using **HTML**, **CSS**, 
 
 ## 📷 Screenshot
 
-calculator.png
 <!-- Replace with actual screenshot URL after hosting -->
-
+![Screenshot 2025-06-20 151738](https://github.com/user-attachments/assets/8eccfca4-7390-4060-8e72-d24264e94404)
 ---
 
 ## 🚀 How to Use
