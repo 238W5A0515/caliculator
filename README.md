@@ -61,7 +61,7 @@ Go to Settings > Pages.
 
 Under Source, choose the branch (e.g., main) and root folder.
 
-Click Save and access your calculator at https://238w5a0515.github.io/scientific-calculator/.
+Click Save and access your calculator at https://238w5a0515.github.io/scientific-caliculator/.
 
 📜 License
 This project is licensed under the MIT License.
