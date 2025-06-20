@@ -23,8 +23,11 @@ A modern and user-friendly scientific calculator built using **HTML**, **CSS**, 
 
 ## 📁 File Structure
 /scientific-calculator/
+
 ├── index.html # Main HTML file
+
 ├── styles.css # CSS styling
+
 └── script.js # JavaScript logic
 
 
