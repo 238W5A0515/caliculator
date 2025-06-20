@@ -38,7 +38,7 @@ A modern and user-friendly scientific calculator built using **HTML**, **CSS**, 
 
 ## 📷 Screenshot
 
-![Scientific Calculator Screenshot](https://via.placeholder.com/600x350?text=Scientific+Calculator+Preview)
+calculator.png
 <!-- Replace with actual screenshot URL after hosting -->
 
 ---
