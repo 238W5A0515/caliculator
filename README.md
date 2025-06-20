@@ -18,14 +18,55 @@ A modern and user-friendly scientific calculator built using **HTML**, **CSS**, 
 - ✅ Auto-reset after result entry
 - ✅ Clean and responsive UI with modern design
 
----
-
-## 💻 Demo
-
-You can try the calculator live [here](#)  
-*(Replace with your GitHub Pages link after deployment)*
 
 ---
 
 ## 📁 File Structure
+/scientific-calculator/
+├── index.html # Main HTML file
+├── styles.css # CSS styling
+└── script.js # JavaScript logic
+
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3 (Flexbox & Grid)
+- JavaScript (ES6)
+
+---
+
+## 📷 Screenshot
+
+![Scientific Calculator Screenshot](https://via.placeholder.com/600x350?text=Scientific+Calculator+Preview)
+<!-- Replace with actual screenshot URL after hosting -->
+
+---
+
+## 🚀 How to Use
+
+1. Clone or download the repository:
+   ```bash
+   git clone https://github.com/238w5a0515/scientific-calculator
+Open index.html in your browser.
+
+🌐 Deployment (GitHub Pages)
+To deploy this project on GitHub Pages:
+
+Push the project to a GitHub repository.
+
+Go to Settings > Pages.
+
+Under Source, choose the branch (e.g., main) and root folder.
+
+Click Save and access your calculator at https://238w5a0515.github.io/scientific-calculator/.
+
+📜 License
+This project is licensed under the MIT License.
+
+🙌 Acknowledgments
+Created as part of a Web Development learning project by 238W5A0515 – Peetha Manikantha.
+
+📧 Contact
+Feel free to reach out via  connect on LinkedIn (https://www.linkedin.com/in/manikantha-peetha-79b848202/).
 
